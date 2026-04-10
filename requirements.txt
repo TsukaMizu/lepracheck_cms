@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+sqladmin
+jinja2
+python-multipart
