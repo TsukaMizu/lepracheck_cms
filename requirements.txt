@@ -4,3 +4,6 @@ sqlalchemy
 sqladmin
 jinja2
 python-multipart
+streamlit
+tensorflow
+numpy
