@@ -1,3 +1,8 @@
-streamlit
+fastapi
+uvicorn[standard]
+sqlalchemy
+sqladmin
 tensorflow
 numpy
+Pillow
+python-multipart
